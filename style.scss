@@ -5,7 +5,8 @@
 // IMPORTS
 //
 
-
+@import "reset";
+@import "variables";
 // Syntax highlighting @import is at the bottom of this file
 
 /**************/
@@ -201,7 +202,7 @@ img {
 
 .site-author {
   margin: -5px 0 0 0;
-  color: $darkGray;
+  color: $darkerGray;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
@@ -296,5 +297,3 @@ footer {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
-@import "variables";
-@import "reset";
