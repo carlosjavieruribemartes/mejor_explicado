@@ -3,7 +3,7 @@ layout: post
 title: Control de Calidad en la Toma de Decisiones
 ---
 
-## Un método para detectar y mitigar sesgos al momento de considerar una propuesta de un equipo.
+Un método para detectar y mitigar sesgos al momento de considerar una propuesta de un equipo.
 
 Al tomar decisiones estratégicas los ejecutivos se encuentran expuestos a muchos sesgos. 
 
@@ -11,13 +11,13 @@ Cuando evalúan una propuesta de su equipo por lo general se enfocan en el conte
 
 El siguiente método propone incluir una revisión sistemática del proceso seguido por quienes elaboran la propuesta con el objetivo de descubrir sesgos cognitivos.
 
-El método consiste en 12 preguntas divididas en tres categorías.
+El método consiste en 12 preguntas divididas en tres categorías. Cada pregunta trata de identificar y resolver la posible aparación de uno o varios sesgos dentro del equipo que hace la recomendación.
 
 ## Preguntas para que los tomadores de decisiones se hagan a sí mismos
 
-1. ¿Hay alguna razón para suponer errores motivados o impulsados por el interés propio dentro del equipo que realiza la propuesta? 
-
 ### Sesgo de interés propio
+
+** Pregunta 1. ¿Hay alguna razón para suponer errores motivados o impulsados por el interés propio dentro del equipo que realiza la propuesta? **
 
 La gente miente a propósito de vez en cuando, pero el autoengaño y la racionalización son problemas más típicos. 
 
@@ -25,9 +25,9 @@ Una propuesta de un equipo que puede beneficiarse con el resultado (financierame
 
 Cada recomendación incluye una preferencia por un resultado específico.  
 
-2. ¿Se ha enamorado de la propuesta el equipo que hace la recomendación?
-
 ### Heurística del afecto
+
+** Pregunta 2. ¿Se ha enamorado de la propuesta el equipo que hace la recomendación? **
 
 Cuando algo nos gusta tendemos a minimizar sus riesgos y costos mientras que exageramos sus beneficios; cuando algo nos desagrada, hacemos lo contrario.
 
@@ -35,9 +35,9 @@ Es posible que el equipo que hace la recomendación se haya apegado a la propues
 
 Debe evaluar minuciosamente todos los aspectos de la recomendación, así como cualquier sesgo emocional que pueda haber influido en quienes la hicieron.
 
-3. ¿Hubo opiniones discrepantes dentro del equipo? Si fue así, ¿fueron explorados adecuadamente?
-
 ### Pensamiento grupal
+
+** Pregunta 3. ¿Hubo opiniones discrepantes dentro del equipo? Si fue así, ¿fueron explorados adecuadamente? **
 
 La ausencia de disentimiento es una señal de alerta. La unanimidad puede ser genuina, o puede ser impuesta por el líder o causada por el pensamiento grupal.
 
@@ -47,9 +47,9 @@ El pensamiento grupal es más frecuente si no existe diversidad de antecedentes 
 
 ## Preguntas para desafiar a quienes realizan la propuesta
 
-4. ¿Podría el diagnóstico de la situación estar demasiado influenciado por analogías sobresalientes?
-
 ### Sesgo de prominencia
+
+** Pregunta 4. ¿Podría el diagnóstico de la situación estar demasiado influenciado por analogías sobresalientes? **
 
 Al presentar una historia de éxito como ejemplo para tomar decisiones, existe el riesgo de que la analogía no sea aplicable a la situación actual. 
 
@@ -57,9 +57,9 @@ El uso de solo una o pocas analogías puede resultar en juicios incorrectos.
 
 Por lo tanto, los tomadores de decisiones deben solicitar más analogías y realizar un examen exhaustivo para evaluar si los ejemplos son comparables y considerar un conjunto más amplio de comparaciones.
 
-5. ¿Se han considerado alternativas creíbles?
-
 ### Sesgo de confirmación
+
+** Pregunta 5. ¿Se han considerado alternativas creíbles? **
 
 Para tomar una buena decisión, es necesario explorar objetiva y factualmente todas las posibilidades, en lugar de desarrollar una sola teoría plausible y buscar evidencia para respaldarla.
 
@@ -67,10 +67,9 @@ Las recomendaciones también pueden incluir una lista de riesgos y acciones de m
 
 Pedir al equipo que ofrezca alternativas a la recomendación principal, así como una lista de  sus ventajas y desventajas, puede ayudar a reconocer la incertidumbre y comprender las numerosas posibilidades. 
 
-6. Si tuviera que tomar esta decisión nuevamente en un año, ¿qué información desearía? ¿Puede obtenerla ahora? 
-
 ### Sesgo de disponibilidad
 
+** Pregunta 6. Si tuviera que tomar esta decisión nuevamente en un año, ¿qué información desearía? ¿Puede obtenerla ahora? **
 
 Los ejecutivos tienden a pasar por alto lo que falta al revisar una recomendación porque nuestra mente construye una narrativa coherente basada en los hechos disponibles. 
 
@@ -78,9 +77,9 @@ Es útil crear listas de verificación para recopilar información relevante par
 
 Las listas de verificación también pueden ser útiles para recopilar información relevante para acuerdos específicos, como la adquisición de nueva tecnología o comprar acceso a nuevos clientes.
 
-7. ¿Sabes de dónde vienen los números? 
-
 ### Sesgo de anclaje
+
+** Pregunta 7. ¿Sabes de dónde vienen los números? **
 
 Para identificar cualquier sesgo de anclaje en un plan, los tomadores de decisiones deben revisar detalladamente los números y hacer preguntas para comprender la precisión de las estimaciones.
 
@@ -88,9 +87,9 @@ Los tres tipos de sesgo de anclaje comunes son las estimaciones iniciales, las e
 
 Cuando una recomendación parece estar anclada por una referencia inicial y la cifra en cuestión tiene una influencia significativa, el tomador de decisiones debe solicitar al equipo de la propuesta que revise sus estimaciones después de un  nuevo anclaje, por ejemplo, con un modelo lineal o un punto de referencia competitivo.
 
-8. ¿Puedes ver un efecto de halo? 
-
 ### Efecto halo
+
+** Pregunta 8. ¿Puedes ver un efecto de halo? **
 
 El efecto halo puede hacer que percibamos que una historia es más simple y emocionalmente más coherente de lo que realmente es. 
 
@@ -98,9 +97,9 @@ Este efecto nos lleva a atribuir el éxito y el fracaso de una empresa a las per
 
 Es importante verificar si la inferencia es razonable y si la situación de la otra empresa es genuinamente comparable a la condición de nuestra empresa. Es útil evaluar la relevancia de la comparación y pedirles a quienes la hacen que sugieran otros ejemplos de empresas menos exitosas.
 
-9. ¿Las personas que hacen esta recomendación están demasiado apegadas a decisiones pasadas?
-
 ### Falacia del costo irrecuperable, efecto de dotación
+
+** Pregunta 9. ¿Las personas que hacen esta recomendación están demasiado apegadas a decisiones pasadas? **
 
 La historia de las empresas y lo que aprenden de ella son importantes, pero evaluar posibilidades en términos del pasado nos lleva por mal camino.
 
@@ -110,9 +109,9 @@ Pregúntese por ejemplo: ¿Invertiría en ampliar la capacidad si no hubiera dec
 
 ## Preguntas para evaluar la propuesta en sí
 
-10. ¿Es el caso base demasiado optimista?
-
 ### Exceso de confianza, falacia de planificación, sesgos optimistas, negligencia del competidor
+
+** Pregunta 10. ¿Es el caso base demasiado optimista? **
 
 El exceso de confianza y la falacia de planificación son sesgos comunes que contribuyen a proyecciones demasiado optimistas. 
 
@@ -120,9 +119,9 @@ Los tomadores de decisiones deben adoptar una “perspectiva externa”, elimina
 
 Los "juegos de guerra" pueden ser un antídoto eficaz contra no tener en cuenta las reacciones de los competidores.
 
-11. ¿Es el peor de los casos lo suficientemente malo?
+### Descuido del desastre
 
-### Negligencia por desastre
+** Pregunta 11. ¿Es el peor de los casos lo suficientemente malo? **
 
 Al tomar decisiones importantes, las empresas deben tener en cuenta el peor de los escenarios y ser sensibles a las respuestas de sus competidores. 
 
@@ -130,9 +129,9 @@ Pedir al equipo de estrategia que desarrolle escenarios puede no ser suficiente,
 
 El uso de estrategias como el "pre-mortem" puede ayudar a identificar posibles riesgos y mejorar la toma de decisiones. Aquí, los participantes se imaginan a sí mismos en el futuro, asumen que el peor de los casos realmente ha ocurrido e inventan una historia sobre cómo ocurrió.
 
-12. ¿El equipo que hace la propuesta es demasiado cauteloso?
-
 ### Aversión a la pérdida
+
+** Pregunta 12. ¿El equipo que hace la propuesta es demasiado cauteloso? **
 
 Nadie quiere ser responsable de un proyecto fallido, por esto algunos planes no son lo suficientemente imaginativos o ambiciosos. 
 
