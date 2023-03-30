@@ -139,14 +139,14 @@ Pocas organizaciones definen explícitamente el nivel de riesgo que aceptarían,
 
 ## Consideraciones finales
 
-El método es para decisiones no rutinarias, como aprobar proyectos de I+D, un gasto de capital sustancial o realizar una adquisición.
+- El método es para decisiones no rutinarias, como aprobar proyectos de I+D, un gasto de capital sustancial o realizar una adquisición.
 
-Los ejecutivos no pueden evitar sus propios sesgos pero pueden identificar los de su personal. Se debe mantener independencia entre el tomador de decisiones y el equipo; por lo que no debe influir en las sugerencias o seleccionar un equipo cuyas preferencias se conocen de antemano.
+- Los ejecutivos no pueden evitar sus propios sesgos pero pueden identificar los de su personal. Se debe mantener independencia entre el tomador de decisiones y el equipo; por lo que no debe influir en las sugerencias o seleccionar un equipo cuyas preferencias se conocen de antemano.
 
-La revisión de todas las preguntas es necesaria para obtener buenos resultados y la adherencia parcial es peligrosa.
+- La revisión de todas las preguntas es necesaria para obtener buenos resultados y la adherencia parcial es peligrosa.
 
-Los gerentes altamente experimentados también pueden cometer errores y las organizaciones deben fomentar una cultura de discusión abierta para que los procesos de toma de decisiones prosperen.
+- Los gerentes altamente experimentados también pueden cometer errores y las organizaciones deben fomentar una cultura de discusión abierta para que los procesos de toma de decisiones prosperen.
 
-Este post es adaptado de: Kahneman, D., Lovallo, D., & Sibony, O. (2011). Before you make that big decision. Harvard Business Review, June, pp. 51–60.
+Este post es adaptado del artículo: Kahneman, D., Lovallo, D., & Sibony, O. (2011). Before you make that big decision. Harvard Business Review, June, pp. 51–60.
 
-Y tú, ¿qué piensas acerca del método para el contro de calidad en la toma de decisiones? Deja tu opinión en la casilla de comentarios.
+Y tú, ¿qué piensas acerca del método para el control de calidad en la toma de decisiones? Deja tu opinión en la casilla de comentarios.
