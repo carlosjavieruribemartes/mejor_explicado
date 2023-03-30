@@ -150,7 +150,6 @@ La revisión de todas las preguntas es necesaria para obtener buenos resultados 
 
 Los gerentes altamente experimentados también pueden cometer errores y las organizaciones deben fomentar una cultura de discusión abierta para que los procesos de toma de decisiones prosperen.
 
----
+Este post es adaptado de: Kahneman, D., Lovallo, D., & Sibony, O. (2011). Before you make that big decision. Harvard Business Review, June, pp. 51–60.
 
-Adaptado de: Kahneman, D., Lovallo, D., & Sibony, O. (2011). Before you make that big decision. Harvard Business Review, June, pp. 51–60.
-
+Y tú, ¿qué piensas acerca del método para el contro de calidad en la toma de decisiones? Deja tu opinión en la casilla de comentarios.
