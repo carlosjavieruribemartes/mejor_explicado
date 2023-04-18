@@ -16,4 +16,4 @@ Diseño, desarrollo e implemento aplicaciones de soporte a la toma de decisiones
 
 Escribe cualquier inquietud que tengas en [Discord](https://discord.gg/R75Mvkgw).
 
-Y no olvides seguirme en redes sociales.
+Y no olvides seguirme en [mis redes sociales](https://carlosjavieruribemartes.carrd.co/).
