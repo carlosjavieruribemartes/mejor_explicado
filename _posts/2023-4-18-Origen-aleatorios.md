@@ -11,7 +11,7 @@ La historia de lás técnicas para generación de números aleatorios es larga e
 
 Dados, monedas y mecanismos similares se han utilizado desde tiempos milenarios para realizar elecciones "aleatorias" y producir números aleatorios en juegos de azar. Algunos dados encontrados en excavaciones en Irán e Iraq datan de más de 5000 años (¡Sí! ¡5000 años!). Este tipo de artículos también fue popular en India, China y Egipto hace unos 4000 años (Puedes observar parte de esta historia en [este link](https://en.wikipedia.org/wiki/Dice) )
 
-![ Pintura mural ]({{ site.baseurl }}/images/Wall_painting_-_scenes_around_the_pub_-_Pompeii_(VI_14_35-36)_-_Napoli_MAN_111482_-_04.jpeg "Pintura mural romana que muestra a dos jugadores de dados, Pompeya, siglo I")
+![ Pintura mural ]({{ site.baseurl }}/images/Wall_painting_scenes.jpg "Pintura mural romana que muestra a dos jugadores de dados, Pompeya, siglo I")
 
 En aquellos tiempos, algunas personas creían que los resultados del lanzamiento de dados no eran aleatorios, sino designios de los dioses. Por ejemplo, en tiempos del Imperio Romano, a veces la diferencia entre la vida y la muerte podría depender del resultado del lanzamiento de una moneda. Incluso hoy, el lanzamiento de monedas se utiliza en ocasiones para resolver disputas en compromisos deportivos.
 
@@ -60,7 +60,7 @@ Utilizar estos dígitos, sin embargo, es muy lento, además que requiere de much
 El método congruencial lineal es la técnica de generación de números aleatorios más popular. De hecho, muchos de los generadores utilizados actualmente se basan en generadores congruenciales lineales. El método fue propuesto inicialmente por Derrick Lehmer en 1951.
 
 Produce una secuencia de números enteros $X_1$, $X_2$, ... entre cero y $m-1$ siguiendo la siguiente relación recursiva:
-$$X_(i+1)=(aX_i+ c) mod m, i=0,1,2,...$$
+$$X_(i+1)=(aX_i+ c) mod ~ m, i=0,1,2,...$$
 
 Esta ecuación da como resultado el residuo de la división entre el número $aX_i + c$ y el número $m$.
 
@@ -84,10 +84,10 @@ Si el incremento $c /= 0$, se denomina método congruencial mixto.
 
 Un resumen de los pasos del método congruencial lineal se puede ver a continuación:
 
-![ Paso 1 ]({{ site.baseurl }}/Metodo_congruencial_Paso1.jpg "Paso 1 del método congruencial lineal")
-![ Paso 2 ]({{ site.baseurl }}/Metodo_congruencial_Paso2.jpg "Paso 2 del método congruencial lineal")
-![ Paso 3 ]({{ site.baseurl }}/Metodo_congruencial_Paso3.jpg "Paso 3 del método congruencial lineal")
-![ Paso 4 ]({{ site.baseurl }}/Metodo_congruencial_Paso4.jpg "Paso 4 del método congruencial lineal")
+![ Paso 1 ]({{ site.baseurl }}/images/Metodo_congruencial_Paso1.jpg "Paso 1 del método congruencial lineal")
+![ Paso 2 ]({{ site.baseurl }}/images/Metodo_congruencial_Paso2.jpg "Paso 2 del método congruencial lineal")
+![ Paso 3 ]({{ site.baseurl }}/images/Metodo_congruencial_Paso3.jpg "Paso 3 del método congruencial lineal")
+![ Paso 4 ]({{ site.baseurl }}/images/Metodo_congruencial_Paso4.jpg "Paso 4 del método congruencial lineal")
 
 ### Desventajas
 
